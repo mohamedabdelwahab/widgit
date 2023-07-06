@@ -1,3 +1,4 @@
 feature 1 implmentation
 feature 2 implmentation
+adding ability to handle multiple widgets
 feature 3 implmentation
